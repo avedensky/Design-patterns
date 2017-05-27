@@ -1,6 +1,4 @@
-package net.electricbrain.fsm.baseonstack;
-
-import java.util.LinkedList;
+package net.electricbrain.fsm.base_on_stack;
 
 /**
  * Created by Alex Vedensky

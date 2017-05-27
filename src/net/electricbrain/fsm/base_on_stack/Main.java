@@ -1,4 +1,4 @@
-package net.electricbrain.fsm.baseonstack;
+package net.electricbrain.fsm.base_on_stack;
 
 /**
  * Created by Alex Vedensky
