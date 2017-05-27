@@ -1,4 +1,4 @@
-package net.electricbrain.fsm.variant1;
+package net.electricbrain.fsm.simple;
 
 /**
  * Created by Alex Vedensky
