@@ -7,7 +7,7 @@ package net.electricbrain.command;
  */
 public class Down implements Command {
     @Override
-    public void exexute() {
+    public void execute() {
         System.out.println("is downing");
     }
 }

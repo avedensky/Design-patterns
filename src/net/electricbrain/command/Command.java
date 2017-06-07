@@ -6,5 +6,5 @@ package net.electricbrain.command;
  * DATE: 07.06.17
  */
 public interface Command {
-    public void exexute ();
+    public void execute ();
 }

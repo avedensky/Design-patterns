@@ -8,6 +8,6 @@ package net.electricbrain.command;
 public class Dog {
     public void executeCommand (Command cmd) {
         System.out.print("Dog ");
-        cmd.exexute();
+        cmd.execute();
     }
 }

@@ -7,7 +7,7 @@ package net.electricbrain.command;
  */
 public class Stand implements Command {
     @Override
-    public void exexute() {
+    public void execute() {
         System.out.println("is standing");
     }
 }

@@ -7,7 +7,7 @@ package net.electricbrain.command;
  */
 public class Heel implements Command {
     @Override
-    public void exexute() {
+    public void execute() {
         System.out.println("is heeling");
     }
 }
