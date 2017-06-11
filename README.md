@@ -1,4 +1,4 @@
 # Design patterns
-Samples of design pattern.
+Sample life of design pattern.
 
 For quick understading and copy past :)
