@@ -50,7 +50,7 @@ class Adapter extends B implements TrueInterface {
 }
 
 
-class HowItWorksThis {
+public class Main {
     public static void main(String[] args) {
         A a = new A();
 
