@@ -1,4 +1,4 @@
-package net.electricbrain.observer.simple;
+package net.electricbrain.observer;
 
 
 /**

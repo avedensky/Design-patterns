@@ -20,7 +20,7 @@ class Singleton {
     }
 }
 
-class HowItWorksThis {
+class Main {
     public static void main(String[] args) {
       System.out.println("\"Static\" Singleton");
       Singleton singleton1 = Singleton.getInstance();

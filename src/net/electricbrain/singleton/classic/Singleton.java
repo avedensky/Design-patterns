@@ -21,7 +21,7 @@ public class Singleton {
     }
 }
 
-class HowItWorksThis {
+class Main {
     public static void main(String[] args) {
         System.out.println("CLASSIC Singleton");
         Singleton singleton1 = Singleton.getInstance();

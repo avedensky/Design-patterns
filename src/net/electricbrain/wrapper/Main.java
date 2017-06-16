@@ -1,4 +1,4 @@
-package net.electricbrain.wrapper.simple;
+package net.electricbrain.wrapper;
 
 /**
  * Created by Alex Vedensky

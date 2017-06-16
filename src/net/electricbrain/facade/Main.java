@@ -1,4 +1,4 @@
-package net.electricbrain.facade.simple;
+package net.electricbrain.facade;
 
 /**
  * Created by Alex Vedensky
